@@ -1,0 +1,2 @@
+SELECT * FROM Projects ORDER BY cost
+LIMIT 1;
